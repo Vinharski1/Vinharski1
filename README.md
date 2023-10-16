@@ -1,7 +1,7 @@
 ### Olá 👋
 
-Me chamo Vitor!
+Olá me chamo Vitor!
 
-Pretendo começar a aprender Javascript;
+Pretendo começar a aprender a programar;
 
-E sou um estudante atualmente apenas aprendendo sobre pensamento computacional para talvez algo maior no futuro;
+Sou apenas um estudante atualmente aprendendo sobre pensamento computacional, para talvez algo maior no futuro;
